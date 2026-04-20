@@ -71,6 +71,13 @@ showroom/
 - **Interactions**: GSAP 3 (ScrollTrigger), AOS, Swiper.js, Chart.js
 - **Icons**: Font Awesome 6 Pro
 
+ 
+## 📝 Performance Notes
+- **Optimization**: Images and videos are lazy-loaded based on viewport intersection.
+- **Theme**: Persistent dark mode preference stored via `localStorage`.
+- **Interactions**: All components use `IntersectionObserver` for efficient scroll-based triggers.
+
 ---
+*Developed with focus on Luxury, Performance, and Precision.*
 
 
