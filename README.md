@@ -25,3 +25,27 @@ A sophisticated, high-performance web application designed for premium automobil
 - **Order & Service Tracking**: Centralized system to manage part orders, test drive requests, and service appointments.
 - **User Management**: Unified interface to manage customer accounts and roles.
 
+🚀 Quick Setup Guide
+
+> [!IMPORTANT]
+> This project is optimized for an **XAMPP** environment (Windows) or a standard LAMP stack.
+
+### 1. Database Configuration
+1. Open **phpMyAdmin** (`http://localhost/phpmyadmin`).
+2. Create a new database named `showroom_db`.
+3. Import the `database.sql` file provided in the root directory.
+
+### 2. Admin Account Initialization
+1. Navigate to your project directory (e.g., `C:\xampp\htdocs\showroom`).
+2. Run the initialization script by visiting: `http://localhost/showroom/setup_admin.php`.
+3. Default Credentials:
+   - **Email**: `admin@showroom.com`
+   - **Password**: `Admin@123`
+   
+> [!WARNING]
+> For security, immediately delete `setup_admin.php` and `reset_admin.php` once the admin account is created.
+
+### 3. Application Access
+- **Customer Portal**: `http://localhost/showroom/index.php`
+- **Admin Control Panel**: `http://localhost/showroom/admin/login.php`
+
