@@ -49,3 +49,19 @@ A sophisticated, high-performance web application designed for premium automobil
 - **Customer Portal**: `http://localhost/showroom/index.php`
 - **Admin Control Panel**: `http://localhost/showroom/admin/login.php`
 
+ 📂 Project Architecture
+
+```text
+showroom/
+├── admin/              # Management panel (CMS, Analytics, Fleet management)
+├── assets/             # Global CSS, JS, and premium font assets
+├── config/             # Database connection and system constants
+├── customer/           # Dedicated user dashboard and profile modules
+├── includes/           # Core PHP functions and reusable logic
+├── partials/           # Header, footer, and navigation components
+├── uploads/            # Dynamic storage for car images and banners
+└── README.md           # You are here!
+```
+
+---
+
