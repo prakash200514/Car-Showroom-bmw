@@ -51,7 +51,7 @@ A sophisticated, high-performance web application designed for premium automobil
 
  📂 Project Architecture
 
-```text
+
 showroom/
 ├── admin/              # Management panel (CMS, Analytics, Fleet management)
 ├── assets/             # Global CSS, JS, and premium font assets
@@ -61,7 +61,16 @@ showroom/
 ├── partials/           # Header, footer, and navigation components
 ├── uploads/            # Dynamic storage for car images and banners
 └── README.md           # You are here!
-```
+
+
+ 🛠️ Technology Stack
+
+- **Backend**: PHP 7.4+ (PDO Engine)
+- **Database**: MySQL 8.0
+- **Frontend Core**: Vanilla HTML5, CSS3 (Glassmorphism & Variables)
+- **Interactions**: GSAP 3 (ScrollTrigger), AOS, Swiper.js, Chart.js
+- **Icons**: Font Awesome 6 Pro
 
 ---
+
 
