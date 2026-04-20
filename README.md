@@ -9,4 +9,19 @@
 
 A sophisticated, high-performance web application designed for premium automobile retail. Inspired by the sleek aesthetics of BMW, this system provides a seamless bridge between luxury car browsing and administrative fleet management.
 
----
+ ✨ Key Features
+
+💎 Customer Experience
+- **Premium UI/UX**: Glassmorphic design language with smooth GSAP and AOS scroll-reveal animations.
+- **Dynamic Banners**: Integrated CMS-driven banner system supporting high-definition 4K images and muted auto-play videos (YouTube/MP4).
+- **Virtual Showroom**: Interactive car listings with advanced filtering and 360° visual logic.
+- **Service & Experience**: Integrated modules for booking service appointments, requesting test drives, and showroom visits.
+- **BMW Spares Shop**: Fully functional e-commerce module for authentic BMW parts and accessories with cart and secure checkout.
+
+🛠️ Administrative Control
+- **Advanced Dashboard**: Real-time analytics powered by Chart.js, tracking bookings, revenue, and user engagement.
+- **Fleet Management**: Comprehensive CRUD system for managing vehicle specifications, multi-image galleries, and pricing.
+- **Banner CMS**: Easily update the homepage hero sliders and promotional banners through the admin panel.
+- **Order & Service Tracking**: Centralized system to manage part orders, test drive requests, and service appointments.
+- **User Management**: Unified interface to manage customer accounts and roles.
+
